@@ -3,6 +3,7 @@
 
 # AIM 
  To simulate a network with Topology, using Cisco Packet Tracer and to verify the connectivity between computer using ICMP.
+ 
 # EQUIPMENTS REQUIRED
 
 Desktop computer
@@ -21,15 +22,19 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 # IP CONNECTIVITY TABLE
+<img width="979" height="228" alt="image" src="https://github.com/user-attachments/assets/ad0674e9-c8cb-473c-aa50-578dd54921b2" />
+
 
 
 
 # NETWORK DIAGRAM
 
+<img width="1013" height="587" alt="image" src="https://github.com/user-attachments/assets/9e395402-7719-473b-9e59-b097ffce4a37" />
 
 
 
 # OUTPUT
+<img width="1014" height="622" alt="image" src="https://github.com/user-attachments/assets/1a32765f-c6bf-4e5a-aea7-f2e52ba3d1ae" />
 
 
 # RESULT
